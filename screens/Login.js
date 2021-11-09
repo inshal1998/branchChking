@@ -30,6 +30,11 @@ const Login = ({navigation}) => {
             title="Submit"
             onPress={submitValue}
           />    
+          <Button
+            title="Cancel"
+            onPress={submitValue}
+          />    
+          
         </View>
       </View>
     )
